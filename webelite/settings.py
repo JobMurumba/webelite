@@ -76,9 +76,9 @@ WSGI_APPLICATION = 'webelite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': "myweb",
-        'USER':'myweb',
-        'PASSWORD':'myweb',
+        'NAME': "softnete_myweb",
+        'USER':'softnete_elitedbme',
+        'PASSWORD':'8PDierkJ@WWbKz6',
         'HOST':'localhost',
         'PORT':'5432'
     }
